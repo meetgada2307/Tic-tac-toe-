@@ -1,2 +1,2 @@
 # Tic-tac-toe-
-this is a game is made using python tkinter library 
+this is a game made using python tkinter library 
